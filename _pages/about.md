@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Wes Whelan
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
